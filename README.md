@@ -6,4 +6,4 @@ Next, we track the execution time for different optimization approaches: <br>
 2. cache optimization with <i><b> void CacheAlgorithm(string inputFile, string outputFile)</b></i><br>
 3. combination of parallelism and cache optimization with <i><b> void ParallelCacheAlgorithm(string inputFile, string outputFile)</b></i><br><br>
 
-Comparison results are documented in the <b>final report.xlsx /<b><br>
+Comparison results are documented in the <b>final report.xlsx </b><br>
